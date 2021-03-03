@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.406211a6.chunk.css",
+    "main.js": "/static/js/main.1aef3244.chunk.js",
+    "main.js.map": "/static/js/main.1aef3244.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc27eb8d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc27eb8d.js.map",
+    "static/js/2.93eb24c1.chunk.js": "/static/js/2.93eb24c1.chunk.js",
+    "static/js/2.93eb24c1.chunk.js.map": "/static/js/2.93eb24c1.chunk.js.map",
+    "static/js/3.0be42784.chunk.js": "/static/js/3.0be42784.chunk.js",
+    "static/js/3.0be42784.chunk.js.map": "/static/js/3.0be42784.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.406211a6.chunk.css.map": "/static/css/main.406211a6.chunk.css.map",
+    "static/js/2.93eb24c1.chunk.js.LICENSE.txt": "/static/js/2.93eb24c1.chunk.js.LICENSE.txt",
+    "static/media/Avi-Patel-Resume.d3298189.pdf": "/static/media/Avi-Patel-Resume.d3298189.pdf",
+    "static/media/ScrollAniCircle.65a8d6af.svg": "/static/media/ScrollAniCircle.65a8d6af.svg",
+    "static/media/github.c57fbba0.svg": "/static/media/github.c57fbba0.svg",
+    "static/media/linkedin.5d76c272.svg": "/static/media/linkedin.5d76c272.svg",
+    "static/media/profile-picture.fc625a02.JPG": "/static/media/profile-picture.fc625a02.JPG",
+    "static/media/project-mockup-bridges.8fe936de.png": "/static/media/project-mockup-bridges.8fe936de.png",
+    "static/media/project-mockup-pokemon.eebc874f.png": "/static/media/project-mockup-pokemon.eebc874f.png",
+    "static/media/right-arrow.ecc5d56a.svg": "/static/media/right-arrow.ecc5d56a.svg",
+    "static/media/scrollAniContainer.3b95c154.svg": "/static/media/scrollAniContainer.3b95c154.svg",
+    "static/media/triangle1.6d5eca8c.svg": "/static/media/triangle1.6d5eca8c.svg",
+    "static/media/triangle2.9218f50b.svg": "/static/media/triangle2.9218f50b.svg",
+    "static/media/triangle3.1ef0ec53.svg": "/static/media/triangle3.1ef0ec53.svg",
+    "static/media/triangle4.63ea5896.svg": "/static/media/triangle4.63ea5896.svg",
+    "static/media/triangle5.65a73f71.svg": "/static/media/triangle5.65a73f71.svg",
+    "static/media/triangle6.98f6bb5e.svg": "/static/media/triangle6.98f6bb5e.svg",
+    "static/media/twitter.ebc13e97.svg": "/static/media/twitter.ebc13e97.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc27eb8d.js",
+    "static/js/2.93eb24c1.chunk.js",
+    "static/css/main.406211a6.chunk.css",
+    "static/js/main.1aef3244.chunk.js"
+  ]
+}
